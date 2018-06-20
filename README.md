@@ -1,7 +1,7 @@
 # Software_Project_Management
 First of all, I would like to express my highest respect to Dr.Olga Ormandjieva for her generous help to us.<br />
 And I want to give my highest gratefulness to all of my teammates who made this project perfect.<br />
-Both of our documentation and presentation ranked #1 among 10 competitive teams!<br />
+Both of our documentation and presentation ranked #2 among 10 competitive teams!<br />
 
 SOEN 6841 <br />
 Contributed by Kaichen Zhang, Yang Zhou, Jinsong Liu,  Zhu Liu, Yu Luo, Ruijia, Yang Kundi Yao, Mo Chen<br />
