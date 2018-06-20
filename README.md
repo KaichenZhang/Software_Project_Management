@@ -87,25 +87,32 @@ Data groups:
 --------
 Customer:   Customer ID, Gender, First Name, Last Name, Date of Birth, E-mail address, Password. 
 Customer shipping address:   Customer_shipping_address_ID, Customer ID, Gender, First Name, Last Name, E-mail address, Telephone number, Fax number, Street_address, Zip_code, City, State-Province, Country, Address_type, date creation address.
+
 Product Group:   
 --------
 Product Group ID, Product group description, Size chart group (footwear, clothes, accessories, etc). 
+
 Product:    
 --------
 Product ID, Product Group ID, Name, General description, set of characteristics (size, color, additional details), Provider, Stock Quantity, Unit cost, Unit price, Image. 
+
 Order:    
 --------
 Order ID, Customer ID, Creation date, Order status (selected, paid, cancelled, delivered), total order value, customer_shipping_address ID, shipping method ID, shipping charges, payment method, payment date, authorization payment ID, comments. 
+
 Order item:   
 --------
 Order Item ID, Order ID, product ID, order quantity, item status (selected, ordered, paid, cancelled, delivered). 
+
 Shipping method:    
 --------
 Shipping method ID, Shipping method description (standard, FedEx, UPS, etc), shipping charges.
 Data model:As shown in the graph.
+
 Data movements:   
 --------
 E: Entry X: eXit R: Read W: Write
+
 Limitations: 
 --------
 This project does not consider 'timeout' situations, which are commonly used in this type of applications.
